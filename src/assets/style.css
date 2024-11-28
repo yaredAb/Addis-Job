@@ -1,0 +1,12 @@
+body{
+    background-color: #ece6d9;
+}
+@font-face {
+    font-family: HyliaSerif;
+    src: url('./HyliaSerifBeta-Regular.otf') format('opentype');
+}
+header h1{
+    font-family: HyliaSerif;
+    letter-spacing: 4px;
+    font-size: 50px;
+}
